@@ -12,4 +12,4 @@ Feel free to connect with me on LinkedIn if you have any questions or would like
 
 https://www.linkedin.com/in/parin-parmar-0b9700200/
 
-### PS: I will working on various projects ahead and will keep updating the repository accordingly.
+### PS: I will be working on various projects ahead and will keep updating the repository accordingly.
