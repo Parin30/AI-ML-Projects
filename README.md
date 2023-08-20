@@ -8,13 +8,13 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 <h2 align="center"><strong>Part - A</strong></h2>
 
-DOMAIN: Medical
+**DOMAIN**: Medical
 
-<u>CONTEXT</u>: Develop an AI/ML model for medical research to predict patient conditions based on biomechanics features without revealing patient details due to confidentiality.
+**CONTEXT**: Develop an AI/ML model for medical research to predict patient conditions based on biomechanics features without revealing patient details due to confidentiality.
 
-<u>DATA DESCRIPTION</u>: Biomechanics features of patients are represented by six attributes, including pelvic tilt, lumbar lordosis angle, sacral slope, pelvic incidence, pelvic radius, and spondylolisthesis degree.
+**DATA DESCRIPTION**: Biomechanics features of patients are represented by six attributes, including pelvic tilt, lumbar lordosis angle, sacral slope, pelvic incidence, pelvic radius, and spondylolisthesis degree.
 
-<u>PROJECT OBJECTIVE</u>: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
+**PROJECT OBJECTIVE**: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
 
 **Technologies & Tools Used:**
 - Python
@@ -31,13 +31,13 @@ DOMAIN: Medical
 
 <h2 align="center"><strong>Part - B</strong></h2>
 
-<u>DOMAIN</u>: Banking, Marketing
+**DOMAIN**: Banking, Marketing
 
-<u>CONTEXT</u>: Implement Machine Learning to improve marketing campaigns in a growing bank by predicting potential customers who will convert based on historical data.
+**CONTEXT**: Implement Machine Learning to improve marketing campaigns in a growing bank by predicting potential customers who will convert based on historical data.
 
-<u>DATA DESCRIPTION</u>: The dataset includes customer attributes like age, customer since, highest spend, zip code, hidden score, monthly average spend, level, mortgage, security, fixed deposit account, internet banking, credit card, and loan on a card.
+**DATA DESCRIPTION**: The dataset includes customer attributes like age, customer since, highest spend, zip code, hidden score, monthly average spend, level, mortgage, security, fixed deposit account, internet banking, credit card, and loan on a card.
 
-<u>PROJECT OBJECTIVE</u>: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
+**PROJECT OBJECTIVE**: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
 
 **Technologies & Tools Used:**
 - Python
@@ -54,7 +54,7 @@ DOMAIN: Medical
 - SVM
 - SMOTE
 
-<span style="color:blue">Project 2: Ensemble Techniques</span>
+## Project 2: Ensemble Techniques
 
 This repository showcases my project on Ensemble Techniques, where I explored various methods like Random Forest, AdaBoost, Gradient Boosting, Grid Search. The project uses real-world data to predict customer churn behavior in a telecom company, demonstrating the effectiveness of ensemble methods in improving machine learning model performance.
 
@@ -64,6 +64,22 @@ This repository showcases my project on Ensemble Techniques, where I explored va
 
 **DATA DESCRIPTION:** The dataset is relevant for understanding customer churn behavior and predicting customer churn. Analyzing customer churn is important for businesses to identify factors that contribute to customer attrition and develop strategies to retain customers.
 
+**PROJECT OBJECTIVE**: The objective, as a data scientist hired by the telecom company, is to build a model that will help to identify the potential customers who have a higher probability to churn. This will help the company to understand the pain points and patterns of customer churn and will increase the focus on strategising customer retention.
+
+**Technologies & Tools Used:**
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook
+- scikit-learn
+- Hyperparameter-tuning
+- Grid search
+- RandomForestClassifier
+- AdaBoostClassifier
+- GradientBoostingClassifier
+- DecisionTreeClassifier
 
 ## Contact
 
