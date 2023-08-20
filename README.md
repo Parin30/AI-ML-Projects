@@ -54,7 +54,7 @@ DOMAIN: Medical
 - SVM
 - SMOTE
 
-## Project 2 : Ensemble Techniques 
+## <span style="color:blue">Project 2: Ensemble Techniques</span>
 
 This repository showcases my project on Ensemble Techniques, where I explored various methods like Random Forest, AdaBoost, Gradient Boosting, Grid Search. The project uses real-world data to predict customer churn behavior in a telecom company, demonstrating the effectiveness of ensemble methods in improving machine learning model performance.
 
