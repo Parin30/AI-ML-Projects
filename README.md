@@ -8,13 +8,13 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 <h2 align="center"><strong>Part - A</strong></h2>
 
-Domain: Medical
+DOMAIN: Medical
 
-<u>Context</u>: Develop an AI/ML model for medical research to predict patient conditions based on biomechanics features without revealing patient details due to confidentiality.
+<u>CONTEXT</u>: Develop an AI/ML model for medical research to predict patient conditions based on biomechanics features without revealing patient details due to confidentiality.
 
-<u>Data Description</u>: Biomechanics features of patients are represented by six attributes, including pelvic tilt, lumbar lordosis angle, sacral slope, pelvic incidence, pelvic radius, and spondylolisthesis degree.
+<u>DATA DESCRIPTION</u>: Biomechanics features of patients are represented by six attributes, including pelvic tilt, lumbar lordosis angle, sacral slope, pelvic incidence, pelvic radius, and spondylolisthesis degree.
 
-<u>Project Objective</u>: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
+<u>PROJECT OBJECTIVE</u>: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
 
 **Technologies & Tools Used:**
 - Python
@@ -29,15 +29,15 @@ Domain: Medical
 - Randomized Search CV
 - KNN
 
-<h2 align="center"><strong>Part - B</strong></h2>
+<h2 align="center"><strong>PART - B</strong></h2>
 
-<u>Domain</u>: Banking, Marketing
+<u>DOMAIN</u>: Banking, Marketing
 
-<u>Context</u>: Implement Machine Learning to improve marketing campaigns in a growing bank by predicting potential customers who will convert based on historical data.
+<u>CONTEXT</u>: Implement Machine Learning to improve marketing campaigns in a growing bank by predicting potential customers who will convert based on historical data.
 
-<u>Data Description</u>: The dataset includes customer attributes like age, customer since, highest spend, zip code, hidden score, monthly average spend, level, mortgage, security, fixed deposit account, internet banking, credit card, and loan on a card.
+<u>DATA DESCRIPTION</u>: The dataset includes customer attributes like age, customer since, highest spend, zip code, hidden score, monthly average spend, level, mortgage, security, fixed deposit account, internet banking, credit card, and loan on a card.
 
-<u>Project Objective</u>: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
+<u>PROJECT OBJECTIVE</u>: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
 
 **Technologies & Tools Used:**
 - Python
