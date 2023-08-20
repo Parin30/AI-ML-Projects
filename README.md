@@ -10,13 +10,13 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 Domain: Medical
 
-Context: Develop an AI/ML model for medical research to predict patient conditions based on biomechanics features without revealing patient details due to confidentiality.
+<u>Context</u>: Develop an AI/ML model for medical research to predict patient conditions based on biomechanics features without revealing patient details due to confidentiality.
 
-Data Description: Biomechanics features of patients are represented by six attributes, including pelvic tilt, lumbar lordosis angle, sacral slope, pelvic incidence, pelvic radius, and spondylolisthesis degree.
+<u>Data Description</u>: Biomechanics features of patients are represented by six attributes, including pelvic tilt, lumbar lordosis angle, sacral slope, pelvic incidence, pelvic radius, and spondylolisthesis degree.
 
-Project Objective: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
+<u>Project Objective</u>: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
 
-**Technologies & Tools Used**
+**Technologies & Tools Used:**
 - Python
 - pandas
 - numpy
@@ -31,15 +31,15 @@ Project Objective: Train Supervised Learning algorithms to predict patient condi
 
 <h2 align="center"><strong>Part - B</strong></h2>
 
-Domain: Banking, Marketing
+<u>Domain</u>: Banking, Marketing
 
-Context: Implement Machine Learning to improve marketing campaigns in a growing bank by predicting potential customers who will convert based on historical data.
+<u>Context</u>: Implement Machine Learning to improve marketing campaigns in a growing bank by predicting potential customers who will convert based on historical data.
 
-Data Description: The dataset includes customer attributes like age, customer since, highest spend, zip code, hidden score, monthly average spend, level, mortgage, security, fixed deposit account, internet banking, credit card, and loan on a card.
+<u>Data Description</u>: The dataset includes customer attributes like age, customer since, highest spend, zip code, hidden score, monthly average spend, level, mortgage, security, fixed deposit account, internet banking, credit card, and loan on a card.
 
-Project Objective: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
+<u>Project Objective</u>: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
 
-Technologies & Tools Used:
+**Technologies & Tools Used:**
 - Python
 - pandas
 - numpy
@@ -58,10 +58,11 @@ Technologies & Tools Used:
 
 This repository showcases my project on Ensemble Techniques, where I explored various methods like Random Forest, AdaBoost, Gradient Boosting, Grid Search. The project uses real-world data to predict customer churn behavior in a telecom company, demonstrating the effectiveness of ensemble methods in improving machine learning model performance.
 
-### Results-
+<u>DOMAIN</u>: Telecommunications.
 
-- The project achieved promising results in predicting customer churn using ensemble methods.
-- Key metrics and visualizations showcase model performance.
+<u>CONTEXT</u>: A telecom company wants to use their historical customer data and leverage machine learning to predict behaviour in an attempt to retain customers. The end goal is to develop focused customer retention programs.
+
+<u>DATA DESCRIPTION</u>: The dataset is relevant for understanding customer churn behavior and predicting customer churn. Analyzing customer churn is important for businesses to identify factors that contribute to customer attrition and develop strategies to retain customers.
 
 ## Contact
 
