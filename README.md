@@ -95,7 +95,20 @@ This project focuses on the following key aspects:
 - **Dimensionality Reduction**: I apply Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while retaining relevant information. This helps visualize the data in a lower-dimensional space.
 - **Model Training and Evaluation**: I train Support Vector Machine (SVM) models on both the original data and the reduced PCA components. I evaluate the models using classification metrics and analyze their performance.
 
-
+**Technologies & Tools Used:**
+- Python
+- pandas
+- numpy
+- Scipy
+- matplotlib
+- seaborn
+- Jupyter Notebook
+- scikit-learn
+- Hyperparameter-tuning
+- Grid search
+- Support Vector Machines 
+- KMeans Clustering
+- Principle Component Analysis(PCA)
 
 ## Contact
 
