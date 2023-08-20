@@ -2,7 +2,7 @@
 
 This repository contains a collection of my AI and ML projects that I have completed during my studies. Each project is represented by an IPython Notebook file (.ipynb), showcasing different techniques and algorithms.
 
-## PROJECT 1: SUPERVISED LEARNING
+## Project 1 : Supervised Learning
 
 The "Supervised Learning Project" demonstrates my skills in applying supervised learning algorithms to solve a specific problem. The notebook includes data preprocessing, feature engineering, model training, evaluation, and result analysis.
 
@@ -54,15 +54,16 @@ DOMAIN: Medical
 - SVM
 - SMOTE
 
-## Project 2: Ensemble Techniques 
+## Project 2 : Ensemble Techniques 
 
 This repository showcases my project on Ensemble Techniques, where I explored various methods like Random Forest, AdaBoost, Gradient Boosting, Grid Search. The project uses real-world data to predict customer churn behavior in a telecom company, demonstrating the effectiveness of ensemble methods in improving machine learning model performance.
 
-<u>DOMAIN</u>: Telecommunications.
+**DOMAIN:** Telecommunications.
 
-<u>CONTEXT</u>: A telecom company wants to use their historical customer data and leverage machine learning to predict behaviour in an attempt to retain customers. The end goal is to develop focused customer retention programs.
+**CONTEXT:** A telecom company wants to use their historical customer data and leverage machine learning to predict behavior in an attempt to retain customers. The end goal is to develop focused customer retention programs.
 
-<u>DATA DESCRIPTION</u>: The dataset is relevant for understanding customer churn behavior and predicting customer churn. Analyzing customer churn is important for businesses to identify factors that contribute to customer attrition and develop strategies to retain customers.
+**DATA DESCRIPTION:** The dataset is relevant for understanding customer churn behavior and predicting customer churn. Analyzing customer churn is important for businesses to identify factors that contribute to customer attrition and develop strategies to retain customers.
+
 
 ## Contact
 
