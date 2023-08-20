@@ -2,7 +2,7 @@
 
 This repository contains a collection of my AI and ML projects that I have completed during my studies. Each project is represented by an IPython Notebook file (.ipynb), showcasing different techniques and algorithms.
 
-## Project 1: Supervised Learning 
+## PROJECT 1: SUPERVISED LEARNING
 
 The "Supervised Learning Project" demonstrates my skills in applying supervised learning algorithms to solve a specific problem. The notebook includes data preprocessing, feature engineering, model training, evaluation, and result analysis.
 
@@ -29,7 +29,7 @@ DOMAIN: Medical
 - Randomized Search CV
 - KNN
 
-<h2 align="center"><strong>PART - B</strong></h2>
+<h2 align="center"><strong>Part - B</strong></h2>
 
 <u>DOMAIN</u>: Banking, Marketing
 
