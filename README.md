@@ -81,6 +81,22 @@ This repository showcases my project on Ensemble Techniques, where I explored va
 - GradientBoostingClassifier
 - DecisionTreeClassifier
 
+## Project 3: Unsupervised Learning
+
+Welcome to my Unsupervised Learning Project, where I explore and analyze a dataset containing information about various vehicle attributes. In this project, I perform data preprocessing, exploration, clustering, and dimensionality reduction techniques to gain insights from the data.
+
+### **Project Overview**
+
+This project focuses on the following key aspects:
+
+- **Data Exploration**: I start by loading and examining the dataset, understanding its structure, and performing basic exploratory data analysis (EDA) to get insights into the data's features and characteristics.
+- **Data Cleaning and Preprocessing**: I handle missing values, identify outliers, and convert data types as necessary. I also perform data scaling to ensure uniformity across the dataset's numerical features.
+- **Clustering Analysis**: Using K-means clustering, I identify patterns and groupings within the dataset based on the attributes of the vehicles. I determine the optimal number of clusters using techniques such as the elbow method and silhouette analysis.
+- **Dimensionality Reduction**: I apply Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while retaining relevant information. This helps visualize the data in a lower-dimensional space.
+- **Model Training and Evaluation**: I train Support Vector Machine (SVM) models on both the original data and the reduced PCA components. I evaluate the models using classification metrics and analyze their performance.
+
+
+
 ## Contact
 
 Feel free to connect with me on LinkedIn if you have any questions or would like to discuss my projects further:
