@@ -39,7 +39,7 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 **PROJECT OBJECTIVE**: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
 
-**Technologies & Tools Used:**
+**Tools & Technologies Used:**
 - Python
 - pandas
 - numpy
@@ -56,7 +56,7 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 ## Project 2: Ensemble Techniques
 
-This repository showcases my project on Ensemble Techniques, where I explored various methods like Random Forest, AdaBoost, Gradient Boosting, Grid Search. The project uses real-world data to predict customer churn behavior in a telecom company, demonstrating the effectiveness of ensemble methods in improving machine learning model performance.
+This Project showcases my skills on Ensemble Techniques, where I explored various methods like Random Forest, AdaBoost, Gradient Boosting, Grid Search. The project uses real-world data to predict customer churn behavior in a telecom company, demonstrating the effectiveness of ensemble methods in improving machine learning model performance.
 
 **DOMAIN:** Telecommunications.
 
@@ -66,7 +66,7 @@ This repository showcases my project on Ensemble Techniques, where I explored va
 
 **PROJECT OBJECTIVE**: The objective, as a data scientist hired by the telecom company, is to build a model that will help to identify the potential customers who have a higher probability to churn. This will help the company to understand the pain points and patterns of customer churn and will increase the focus on strategising customer retention.
 
-**Technologies & Tools Used:**
+**Tools & Technologies Used:**
 - Python
 - pandas
 - numpy
@@ -85,6 +85,14 @@ This repository showcases my project on Ensemble Techniques, where I explored va
 
 Welcome to my Unsupervised Learning Project, where I explore and analyze a dataset containing information about various vehicle attributes. In this project, I perform data preprocessing, exploration, clustering, and dimensionality reduction techniques to gain insights from the data.
 
+**DOMAIN:** Automobile.
+
+**CONTEXT:** The data concerns city-cycle fuel consumption in miles per gallon to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.
+
+**DATA DESCRIPTION:** This automobile dataset is designed to predict city-cycle fuel consumption (mpg) based on eight attributes, including multivalued discrete variables like "cylinders," "model year," and "origin," as well as continuous variables such as "acceleration," "displacement," "horsepower," "weight," and the target variable "mpg." Each data point is uniquely identified by a "car name." It serves as a valuable resource for understanding the relationship between these attributes and city-cycle fuel efficiency in automobiles.
+
+**PROJECT OBJECTIVE**: To understand K-means Clustering by applying on the Car Dataset to segment the cars into various categories.
+
 ### **Project Overview**
 
 This project focuses on the following key aspects:
@@ -95,7 +103,7 @@ This project focuses on the following key aspects:
 - **Dimensionality Reduction**: I apply Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while retaining relevant information. This helps visualize the data in a lower-dimensional space.
 - **Model Training and Evaluation**: I train Support Vector Machine (SVM) models on both the original data and the reduced PCA components. I evaluate the models using classification metrics and analyze their performance.
 
-**Technologies & Tools Used:**
+**Tools & Technologies Used:**
 - Python
 - pandas
 - numpy
@@ -108,6 +116,61 @@ This project focuses on the following key aspects:
 - Grid search
 - Support Vector Machines 
 - KMeans Clustering
+- Principle Component Analysis(PCA)
+
+## Project 4: Featurization, Model Selection and Tuning
+
+This Project showcases my skills on featurization, model selection, and tuning in the semiconductor manufacturing process domain. The project aims to predict the Pass/Fail yield of a specific production entity by analyzing a dataset containing 1567 data points and 591 features.
+
+**DOMAIN:**  Semiconductor manufacturing process.
+
+**DATA DESCRIPTION:** The data consists of 1567 datapoints each with 591 features. The dataset presented in this case represents a selection of such features where each example represents a single production entity with associated measured features and the labels represent a simple pass/fail yield for in house line testing. Target column “ –1” corresponds to a pass and “1” corresponds to a fail and the data time stamp is for that specific test point.
+
+**PROJECT OBJECTIVE**: We will build a classifier to predict the Pass/Fail yield of a particular process entity and analyse whether all the features are required to build the model or not.
+
+### **Data Exploration**
+
+- Explored dataset structure and characteristics.
+- Identified key data observations.
+- Applied data cleansing, handling missing values, and dropping irrelevant features.
+
+### **Data Analysis & Visualization**
+
+- Conducted univariate analysis.
+- Performed bivariate and multivariate analysis.
+- Uncovered relationships and correlations between variables.
+
+### **Data Pre-processing**
+
+- Segregated predictors vs. target attributes.
+- Addressed target class imbalance.
+- Performed train-test split and standardization.
+
+### **Model Training & Evaluation**
+
+- Trained models using supervised learning.
+- Employed cross-validation techniques.
+- Applied hyperparameter tuning.
+- Enhanced model performance with various techniques.
+
+### **Conclusion**
+
+- Compared model performance and selected the best model.
+- Pickled the selected model for future use.
+- Summarized project results and conclusions.
+
+**Tools & Technologies Used:**
+- Python
+- pandas
+- numpy
+- Scipy
+- matplotlib
+- seaborn
+- Jupyter Notebook
+- scikit-learn
+- Pipeline
+- Supervised Learning Models
+- Hyperparameter-tuning
 - Principle Component Analysis(PCA)
 
 ## Contact
