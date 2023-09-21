@@ -146,7 +146,7 @@ This Project showcases my skills on featurization, model selection, and tuning i
 - Addressed target class imbalance.
 - Performed train-test split and standardization.
 
-### **Model Training & Evaluation**
+#### **Model Training & Evaluation**
 
 - Trained models using supervised learning.
 - Employed cross-validation techniques.
