@@ -146,7 +146,7 @@ This Project showcases my skills on featurization, model selection, and tuning i
 - Addressed target class imbalance.
 - Performed train-test split and standardization.
 
-#### **Model Training & Evaluation**
+### **Model Training & Evaluation**
 
 - Trained models using supervised learning.
 - Employed cross-validation techniques.
@@ -158,20 +158,6 @@ This Project showcases my skills on featurization, model selection, and tuning i
 - Compared model performance and selected the best model.
 - Pickled the selected model for future use.
 - Summarized project results and conclusions.
-
-**Tools & Technologies Used:**
-- Python
-- pandas
-- numpy
-- Scipy
-- matplotlib
-- seaborn
-- Jupyter Notebook
-- scikit-learn
-- Pipeline
-- Supervised Learning Models
-- Hyperparameter-tuning
-- Principle Component Analysis(PCA)
 
 ## Contact
 
