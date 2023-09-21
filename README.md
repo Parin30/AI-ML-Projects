@@ -128,32 +128,32 @@ This Project showcases my skills on featurization, model selection, and tuning i
 
 **PROJECT OBJECTIVE**: We will build a classifier to predict the Pass/Fail yield of a particular process entity and analyse whether all the features are required to build the model or not.
 
-### **Data Exploration**
+### **A. Data Exploration**
 
 - Explored dataset structure and characteristics.
 - Identified key data observations.
 - Applied data cleansing, handling missing values, and dropping irrelevant features.
 
-### **Data Analysis & Visualization**
+### **B. Data Analysis & Visualization**
 
 - Conducted univariate analysis.
 - Performed bivariate and multivariate analysis.
 - Uncovered relationships and correlations between variables.
 
-### **Data Pre-processing**
+### **C. Data Pre-processing**
 
 - Segregated predictors vs. target attributes.
 - Addressed target class imbalance.
 - Performed train-test split and standardization.
 
-### **Model Training & Evaluation**
+### **D. Model Training & Evaluation**
 
 - Trained models using supervised learning.
 - Employed cross-validation techniques.
 - Applied hyperparameter tuning.
 - Enhanced model performance with various techniques.
 
-### **Conclusion**
+### **E. Post Training & Conclusion**
 
 - Compared model performance and selected the best model.
 - Pickled the selected model for future use.
