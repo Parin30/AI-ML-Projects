@@ -16,7 +16,7 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 **PROJECT OBJECTIVE**: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
 
-**Technologies & Tools Used:**
+**Skills & Tools Used:**
 - Python
 - pandas
 - numpy
@@ -39,7 +39,7 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 **PROJECT OBJECTIVE**: Build an ML model for targeted marketing to increase conversion ratio and expand the borrower base with the same budget.
 
-**Tools & Technologies Used:**
+**Skills & Tools Used:**
 - Python
 - pandas
 - numpy
@@ -66,7 +66,7 @@ This Project showcases my skills on Ensemble Techniques, where I explored variou
 
 **PROJECT OBJECTIVE**: The objective, as a data scientist hired by the telecom company, is to build a model that will help to identify the potential customers who have a higher probability to churn. This will help the company to understand the pain points and patterns of customer churn and will increase the focus on strategising customer retention.
 
-**Tools & Technologies Used:**
+**Skills & Tools Used:**
 - Python
 - pandas
 - numpy
@@ -103,7 +103,7 @@ This project focuses on the following key aspects:
 - **Dimensionality Reduction**: I apply Principal Component Analysis (PCA) to reduce the dimensionality of the dataset while retaining relevant information. This helps visualize the data in a lower-dimensional space.
 - **Model Training and Evaluation**: I train Support Vector Machine (SVM) models on both the original data and the reduced PCA components. I evaluate the models using classification metrics and analyze their performance.
 
-**Tools & Technologies Used:**
+**Skills & Tools Used:**
 - Python
 - pandas
 - numpy
