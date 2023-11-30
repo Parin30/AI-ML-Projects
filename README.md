@@ -161,7 +161,7 @@ Unveiling Neural Networks' Power: Predicting Signal Quality & Street View Housin
 Parameters: Various measurable signal parameters.
 Signal_Quality: Final signal strength or quality
 
-**PROJECT OBJECTIVE**: To build a classifier which can use the given parameters to determine the signal strength or quality.
+**PROJECT OBJECTIVE**: To build a Neural Network classifier which can use the given parameters to determine the signal strength or quality.
 
 <h2 align="center"><strong>Part - B</strong></h2>
 
