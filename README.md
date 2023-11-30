@@ -16,19 +16,6 @@ The "Supervised Learning Project" demonstrates my skills in applying supervised 
 
 **PROJECT OBJECTIVE**: Train Supervised Learning algorithms to predict patient conditions using the provided biomechanics data.
 
-**Skills & Tools Used:**
-- Python
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- Jupyter Notebook
-- scikit-learn
-- Hyperparameter-tuning
-- Grid search
-- Randomized Search CV
-- KNN
-
 <h2 align="center"><strong>Part - B</strong></h2>
 
 **DOMAIN**: Banking, Marketing
