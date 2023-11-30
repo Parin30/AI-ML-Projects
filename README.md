@@ -173,7 +173,7 @@ Signal_Quality: Final signal strength or quality
 
 Acknowledgement: Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011. PDF http://ufldl.stanford.edu/housenumbers as the URL for this site.
 
-**PROJECT OBJECTIVE**: To build a digit classifier on the SVHN (Street View Housing Number) dataset.
+**PROJECT OBJECTIVE**: To build a digit classifier on the SVHN (Street View Housing Number) dataset using a Neural Network.
 
 **Skills & Tools Used:**
 - Python
