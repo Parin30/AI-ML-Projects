@@ -146,6 +146,10 @@ This Project showcases my skills on featurization, model selection, and tuning i
 - Pickled the selected model for future use.
 - Summarized project results and conclusions.
 
+## Project 5 : Neural Networks
+
+Unveiling Neural Networks' Power: Predicting Signal Quality & Street View Housing Numbers. Harnessing the potential of Neural Networks and Deep Learning, this project dives into signal quality prediction for communication equipment while tackling the challenge of recognizing multi-digit street numbers in real-world images. Embrace the journey through feature analysis, model complexity trade-offs, and ethical implications in deploying cutting-edge technologies.
+
 <h2 align="center"><strong>Part - A</strong></h2>
 
 **DOMAIN**: Electronics and Telecommunication
